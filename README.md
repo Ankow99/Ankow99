@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m @Ankow99 - Paul
 - I'm a Mechatronics Enginner with a background in Aeronautical Engineering
+- Passionate about designing and building any challenging project, with extensive experience in Mechatronics Design, Computer-Aided Design, CNC, Programming, ARM Microcontrollers, GNU/Linux, Machining, Welding, Woodworking, and hands-on electronics making.
 
 
 ## ❯ Technologies & Tools
