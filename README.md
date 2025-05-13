@@ -1,4 +1,4 @@
-# Ankow99
+# Ankow
 
 - 👋🏻 Hi, I’m @Ankow99 - Paul
 - I'm a Mechatronics Enginner with a background in Aeronautical Engineering
