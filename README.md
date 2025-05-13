@@ -1,6 +1,6 @@
 # Ankow99
 
-- 👋 Hi, I’m @Ankow99 - Paul
+- 👋🏻 Hi, I’m @Ankow99 - Paul
 - I'm a Mechatronics Enginner with a background in Aeronautical Engineering
 - Driven Mechatronics Engineer with a background in Aeronautics, enthusiastic about designing and building challenging projects. A strategic and competent team player who excels in finding creative solutions to complex problems. Proficient in Computer-Aided Design, Aircraft Propulsion, and Computational Fluid Dynamics. Experienced in Linux system administration and desktop environment configuration, with a keen interest in tinkering with open-source technologies and system-level tools. Demonstrates strong attention to detail and a commitment to delivering high-quality work.
 
