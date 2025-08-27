@@ -1,9 +1,8 @@
-# Ankow
+# Ankow <a href="https://ubuntu.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40" /></a><a href="https://archlinux.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="arch linux" width="40" height="40" /></a>
 
 - 👋🏻 Hi, I’m @Ankow99 - Pablo
-- I'm a Mechatronics Enginner with a background in Aeronautical Engineering
+- I'm an Associate Support Engineer at Canonical and a Mechatronics Enginner with a background in Aeronautical Engineering
 - Driven Mechatronics Engineer with a background in Aeronautics, enthusiastic about designing and building challenging projects. A strategic and competent team player who excels in finding creative solutions to complex problems. Proficient in Computer-Aided Design, Aircraft Propulsion, and Computational Fluid Dynamics. Experienced in Linux system administration and desktop environment configuration, with a keen interest in tinkering with open-source technologies and system-level tools. Demonstrates strong attention to detail and a commitment to delivering high-quality work.
-
 
 ## ❯ Technologies & Tools
 
